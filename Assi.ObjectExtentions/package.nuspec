@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Assi.ObjectExtensions</id>
+    <version>1.0.0</version>
+	<title>$title$</title>
+    <authors>ramiassi</authors>
+    <owners>Rami Assi</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl>https://github.com/ramiassi/Assi.ObjectExtensions</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This extension library adds some handy methods to objects of any type.</description>
+    <releaseNotes>These extension methods are included:
+	IsNullOrEmpty
+	HasAllPropertiesEmpty
+	PercentPropertiesFilled
+	</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>URL Slug SEO Slugify Web</tags>
+    <dependencies>
+      <dependency id=".NET Standard" version="2.0" />
+    </dependencies>
+  </metadata>
+</package>
